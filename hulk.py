@@ -14,8 +14,8 @@ import random
 import re
 
 #global params
-url=''
-host=''
+url='51.161.84.227:25655'
+host='51.161.84.227:25655'
 headers_useragents=[]
 headers_referers=[]
 request_counter=0
